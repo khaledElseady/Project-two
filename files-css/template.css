@@ -82,6 +82,9 @@ html{
 	text-decoration:none;
 	font-size:20px;
 }
+.lading .container .header ul li .active{
+	color: var(--main-color);
+}
 .lading .container .header ul li a:hover{
 	color: var(--main-color , red);
 }
